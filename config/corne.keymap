@@ -56,7 +56,7 @@
 &kp TAB    &kp EXCL  &kp AT          &kp UP_ARROW    &kp DLLR         &kp PRCNT        &kp CARET  &kp AMPS   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RPAR   &kp BSPC
 &kp LCTRL  &kp HASH  &kp LEFT        &kp DOWN        &kp RIGHT        &kp ASTERISK     &kp MINUS  &kp EQUAL  &kp LBKT              &kp RBKT               &kp PIPE   &kp GRAVE
 &kp LSHFT  &trans    &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans           &kp UNDER  &kp PLUS   &kp LBRC              &kp RBRC               &kp GRAVE  &kp TILDE
-                                     &kp LGUI        &trans           &kp BACKSPACE    &kp RET    &trans     &kp RALT
+                                     &kp LGUI        &trans           &kp BACKSPACE    &kp RET    &trans     &kp LEFT_COMMAND
             >;
         };
 
