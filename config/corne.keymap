@@ -37,10 +37,10 @@
 
             label = "Lower";
             bindings = <
-&kp TAB           &kp N1        &kp N2  &kp N3    &kp N4        &kp N5           &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_0    &kp UP_ARROW    &kp BSPC
-&kp LEFT_CONTROL  &kp LEFT_ALT  &kp A   &kp A     &bt BT_SEL 3  &kp A            &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW
-&kp LSHFT         &trans        &trans  &trans    &trans        &trans           &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0    &trans          &trans
-                                        &kp LGUI  &trans        &kp BACKSPACE    &kp SPACE     &trans        &kp RALT
+&kp TAB           &bt BT_CLR    &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &kp N5           &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_0    &kp UP_ARROW    &kp BSPC
+&kp LEFT_CONTROL  &kp LEFT_ALT  &kp A         &kp A         &bt BT_SEL 3  &kp A            &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW
+&kp LSHFT         &trans        &trans        &trans        &trans        &trans           &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0    &trans          &trans
+                                              &kp LGUI      &trans        &kp BACKSPACE    &kp SPACE     &trans        &kp RALT
             >;
         };
 
@@ -53,10 +53,10 @@
 
             label = "Raise";
             bindings = <
-&kp TAB    &kp EXCL  &kp AT          &kp UP_ARROW    &kp DLLR         &kp PRCNT        &kp CARET  &kp AMPS   &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp RPAR   &kp BSPC
-&kp LCTRL  &kp HASH  &kp LEFT        &kp DOWN        &kp RIGHT        &kp ASTERISK     &kp MINUS  &kp EQUAL  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PIPE   &kp GRAVE
-&kp LSHFT  &trans    &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans           &kp UNDER  &kp PLUS   &kp LBRC              &kp RBRC               &kp GRAVE  &kp TILDE
-                                     &kp LGUI        &trans           &kp BACKSPACE    &kp RET    &trans     &kp LEFT_COMMAND
+&kp TAB    &kp A     &kp EXCLAMATION  &kp AT_SIGN   &kp HASH         &kp PRCNT        &kp CARET  &kp AMPS   &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp RPAR   &kp BSPC
+&kp LCTRL  &kp HASH  &kp DOLLAR       &kp PERCENT   &kp CARET        &kp ASTERISK     &kp MINUS  &kp EQUAL  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PIPE   &kp GRAVE
+&kp LSHFT  &trans    &kp AMPERSAND    &kp ASTERISK  &kp RIGHT_ARROW  &trans           &kp UNDER  &kp PLUS   &kp LBRC              &kp RBRC               &kp GRAVE  &kp TILDE
+                                      &kp LGUI      &trans           &kp BACKSPACE    &kp RET    &trans     &kp LEFT_COMMAND
             >;
         };
 
