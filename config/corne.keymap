@@ -64,7 +64,7 @@
             bindings = <
 &trans  &trans  &trans  &kp LA(LC(D))  &kp LA(LC(F))           &kp LA(LC(G))        &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans         &kp LA(LC(LEFT_ARROW))  &kp LA(LC(RIGHT))    &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans         &kp LA(LC(E))           &kp T                &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans         &kp LA(LC(E))           &kp LA(LC(T))        &trans  &trans  &trans  &trans  &trans  &trans
                         &trans         &trans                  &trans               &trans  &trans  &trans
             >;
         };
