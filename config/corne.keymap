@@ -53,9 +53,9 @@
 
             label = "Raise";
             bindings = <
-&kp LG(GRAVE)     &trans        &kp LG(X)          &kp LG(C)          &kp LG(V)         &kp C_VOLUME_UP    &trans     &trans     &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans         &trans
+&kp LG(GRAVE)     &trans        &kp LG(X)          &kp LG(C)          &kp LG(V)         &kp C_VOLUME_UP    &kp PLUS   &trans     &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans         &trans
 &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LA(BACKSPACE)  &kp LG(BACKSPACE)  &kp LG(Z)         &kp C_VOL_DN       &kp MINUS  &kp EQUAL  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PIPE       &kp GRAVE
-&kp LEFT_SHIFT    &trans        &trans             &kp LG(ENTER)      &kp C_PLAY_PAUSE  &kp K_MUTE         &kp UNDER  &kp PLUS   &kp LBRC              &kp RBRC               &kp BACKSLASH  &kp TILDE
+&kp LEFT_SHIFT    &trans        &trans             &kp LG(ENTER)      &kp C_PLAY_PAUSE  &kp K_MUTE         &kp UNDER  &trans     &kp LBRC              &kp RBRC               &kp BACKSLASH  &kp TILDE
                                                    &kp LGUI           &trans            &kp BACKSPACE      &kp RET    &mo 3      &kp LEFT_ALT
             >;
         };
