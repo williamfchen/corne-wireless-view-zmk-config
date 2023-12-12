@@ -39,7 +39,7 @@
             bindings = <
 &kp TAB           &trans        &kp PERCENT      &kp CARET    &kp AMPERSAND  &kp ASTERISK     &kp LC(GRAVE)   &kp UP_ARROW    &kp NUMBER_0     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3
 &kp LEFT_CONTROL  &kp LEFT_ALT  &kp EXCLAMATION  &kp AT_SIGN  &kp HASH       &kp DOLLAR       &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6
-&kp LEFT_SHIFT    &trans        &trans           &trans       &kp QUESTION   &trans           &trans          &trans          &kp NUMBER_0     &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9
+&kp LEFT_SHIFT    &trans        &kp PERIOD       &kp COMMA    &kp QUESTION   &trans           &trans          &trans          &kp NUMBER_0     &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9
                                                  &kp LGUI     &mo 3          &kp BACKSPACE    &kp SPACE       &trans          &kp RALT
             >;
         };
